@@ -145,7 +145,7 @@ Selain mengerjakan latihan pada `index.html`, dibuat juga proyek mini berupa hal
 **Nama Repository:** `Lab2Web`
 
 **URL Repository:**  
-[Masukkan URL repository GitHub kamu di sini setelah repository dibuat.](https://github.com/gnvmth/Lab2Web.git)
+(https://github.com/gnvmth/Lab2Web.git)
 
 ---
 
